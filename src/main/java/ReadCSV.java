@@ -16,8 +16,8 @@ public class ReadCSV {
 	
 	public void dataset() {
 	
-		String csvFileTreeTrims = "/Users/anirudh/Downloads/Java downloads/DataProcess/docs/311_Service_Requests_-_Tree_Trims.csv";
-		String csvFileTreeDebris = "/Users/anirudh/Downloads/Java downloads/DataProcess/docs/311_Service_Requests_-_Tree_Debris.csv";
+		String csvFileTreeTrims = "https://github.com/sapnabohra/HW1_DataAnalysis/blob/master/src/main/resources/311_Service_Requests_-_Tree_Trims.csv";
+		String csvFileTreeDebris = "https://github.com/sapnabohra/HW1_DataAnalysis/blob/master/src/main/resources/311_Service_Requests_-_Tree_Debris.csv";
 		BufferedReader br_1= null;
 		BufferedReader br_2= null;
 		int lineNumber1 = 0;
